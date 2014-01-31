@@ -1,0 +1,20 @@
+[{
+	"modid": "VillageMods",
+	"name": "Village Mods",
+	"description": "More Villages Everywhere!",
+	"version": "1.2c",
+	"mcversion": "1.6.2",
+	"authors": [ "maexono" ],
+	"requiredMods": [ "Forge" ],
+	"logoFile": "/vm.png"
+},
+{
+	"modid": "VillageBiomes",
+	"name": "Village Biomes",
+	"parent": "VillageMods"
+},
+{
+	"modid": "VillageDensity",
+	"name": "Village Density",
+	"parent": "VillageMods"
+}]
