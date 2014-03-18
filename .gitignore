@@ -5,7 +5,16 @@
 *.war
 *.ear
 
+# IntelliJ Idea
+*.iml
+*.ipr
+*.iws
+
 # Building #
+gradlew*
+*.log
+/.gradle/
+/gradle/
 /build/
-/bin/
-/download/
+/run/
+/out/
